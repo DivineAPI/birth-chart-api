@@ -37,10 +37,10 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 
 | Endpoint | Docs |
 |---|---|
-| Natal Wheel Chart | [link](https://developers.divineapi.com/western-api/natal-astrology/natal-wheel-chart/natal-wheel-chart-western) |
-| Planetary Positions | [link](https://developers.divineapi.com/western-api/natal-astrology/planetary-positions/planetary-positions-western) |
-| House Cusps | [link](https://developers.divineapi.com/western-api/natal-astrology/house-cusps/house-cusps-western) |
-| Ascendant Report | [link](https://developers.divineapi.com/western-api/natal-astrology/ascendant-report/ascendant-report-western) |
+| Natal Wheel Chart | [link](https://developers.divineapi.com/western-api/natal-astrology/natal-wheel-chart) |
+| Planetary Positions | [link](https://developers.divineapi.com/western-api/natal-astrology/planetary-positions) |
+| House Cusps | [link](https://developers.divineapi.com/western-api/natal-astrology/house-cusps) |
+| Ascendant Report | [link](https://developers.divineapi.com/western-api/natal-astrology/ascendant-report) |
 | Natal Insights | [link](https://developers.divineapi.com/western-api/natal-astrology/natal-insights) |
 | Chart Shape | [link](https://developers.divineapi.com/western-api/natal-astrology/chart-shape) |
 
@@ -65,8 +65,8 @@ Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-
 
 | Endpoint | Docs |
 |---|---|
-| Moon Phases | [link](https://developers.divineapi.com/western-api/natal-astrology/moon-phases/moon-phases-western) |
-| Moon Phase Calendar | [link](https://developers.divineapi.com/western-api/natal-astrology/moon-phase-calendar/moon-phase-calendar-western) |
+| Moon Phases | [link](https://developers.divineapi.com/western-api/natal-astrology/moon-phases) |
+| Moon Phase Calendar | [link](https://developers.divineapi.com/western-api/natal-astrology/moon-phase-calendar) |
 | Eclipse | [link](https://developers.divineapi.com/western-api/natal-astrology/eclipse) |
 
 ### Advanced Points & Bodies
@@ -122,7 +122,7 @@ Authenticate with a Bearer token in the `Authorization` header **and** pass `api
 
 ### Optional styling parameters
 
-The chart renderer accepts 10+ optional parameters to customize the output: `house_system`, `aspect_orbs_type`, `aspect_orbs_value`, `aspects_type`, `planet_aspects`, `graphic_layout`, `degrees_color`, `planet_glyphs`, `main_background`, and more. See the **[full reference](https://developers.divineapi.com/western-api/natal-astrology/natal-wheel-chart/natal-wheel-chart-western)** for the complete catalog.
+The chart renderer accepts 10+ optional parameters to customize the output: `house_system`, `aspect_orbs_type`, `aspect_orbs_value`, `aspects_type`, `planet_aspects`, `graphic_layout`, `degrees_color`, `planet_glyphs`, `main_background`, and more. See the **[full reference](https://developers.divineapi.com/western-api/natal-astrology/natal-wheel-chart)** for the complete catalog.
 
 ### Sample response
 
@@ -386,7 +386,7 @@ func main() {
 
 Code samples on this page are free to copy into your own projects, no attribution required. Marketing copy, logos, and the **DivineAPI** name are © 2026 DivineAPI, all rights reserved.
 
-For the terms that govern the API service itself, see [divineapi.com/terms](https://divineapi.com/terms).
+For the terms that govern the API service itself, see [divineapi.com/terms](https://divineapi.com/terms-service).
 
 ## Contact
 
