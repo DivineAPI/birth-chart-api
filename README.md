@@ -18,7 +18,7 @@
 
 The **Birth Chart API** by DivineAPI is a suite of 21+ REST endpoints for Western natal astrology: complete birth-chart analysis and rendering. Give a birth date, time and location, get back a ready-to-display natal wheel chart (as SVG), plus every underlying calculation: planetary positions, house cusps, aspects, moon phases, fixed stars, asteroids, Arabic lots and more. Plain JSON over HTTPS, 25 languages, no SDK required.
 
-Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (200+ astrology, horoscope, tarot and numerology endpoints).
+Part of the broader [DivineAPI platform](https://github.com/DivineAPI/astrology-api) (300+ astrology, horoscope, tarot and numerology endpoints).
 
 ## Why choose DivineAPI's Birth Chart API?
 
